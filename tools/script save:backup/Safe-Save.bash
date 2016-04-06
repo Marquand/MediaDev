@@ -24,7 +24,7 @@ read USER
 echo -e "Vous serez connecté avec -> [\033[36m'$USER'\033[0m]"
 #echo -n "Serveur :"
 #read HOST
-HOST=vps241658.ovh.net
+HOST=HERE_YOUR_HOST
 echo -e "Serveur de sauvegarge -> [\033[36m'$HOST'\033[0m]"
 
 REPO=${PWD##*/}
