@@ -24,7 +24,7 @@ $ Voulez-vous faire une mise à jour ou une installation ? [Yes(y)/No(n)] : y
 $ Choice your OS Mac/Linus -> m or Windows -> w
 ```
 
-![](http://script.mediashare.fr/MediaDev-mid.gif)
+![MediaDev](MediaDev-mid.gif)
 *Pensez à faire régulièrement des mise à jour de l'application [MediaDev-Start](http://Script.Mediashare.fr),
 afin d'avoir les derniers patch debug et les nouveaux outils*
 
