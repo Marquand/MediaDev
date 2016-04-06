@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/sqlmap/!svn/ver/3147/trunk/sqlmap/extra/shutils
+END
+blanks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/2249/trunk/sqlmap/extra/shutils/blanks.sh
+END
+duplicates.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3147/trunk/sqlmap/extra/shutils/duplicates.py
+END
+id.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/2616/trunk/sqlmap/extra/shutils/id.sh
+END
+pylint.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/3147/trunk/sqlmap/extra/shutils/pylint.py
+END

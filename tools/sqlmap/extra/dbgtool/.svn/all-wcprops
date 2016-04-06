@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/sqlmap/!svn/ver/2246/trunk/sqlmap/extra/dbgtool
+END
+dbgtool.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/2246/trunk/sqlmap/extra/dbgtool/dbgtool.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sqlmap/!svn/ver/2009/trunk/sqlmap/extra/dbgtool/__init__.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/1285/trunk/sqlmap/extra/dbgtool/README.txt
+END

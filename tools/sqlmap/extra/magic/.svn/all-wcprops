@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/sqlmap/!svn/ver/3275/trunk/sqlmap/extra/magic
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/3275/trunk/sqlmap/extra/magic/__init__.py
+END
+magic.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3275/trunk/sqlmap/extra/magic/magic.py
+END

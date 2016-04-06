@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sqlmap/!svn/ver/2906/trunk/sqlmap/extra/udfhack/windows/64/lib_mysqludf_sys/lib_mysqludf_sys
+END
+lib_mysqludf_sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sqlmap/!svn/ver/2906/trunk/sqlmap/extra/udfhack/windows/64/lib_mysqludf_sys/lib_mysqludf_sys/lib_mysqludf_sys.c
+END
+__exec_payload.asm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sqlmap/!svn/ver/1495/trunk/sqlmap/extra/udfhack/windows/64/lib_mysqludf_sys/lib_mysqludf_sys/__exec_payload.asm
+END
+lib_mysqludf_sys.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sqlmap/!svn/ver/1495/trunk/sqlmap/extra/udfhack/windows/64/lib_mysqludf_sys/lib_mysqludf_sys/lib_mysqludf_sys.vcproj
+END

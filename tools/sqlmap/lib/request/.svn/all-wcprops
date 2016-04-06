@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/sqlmap/!svn/ver/3604/trunk/sqlmap/lib/request
+END
+connect.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/3599/trunk/sqlmap/lib/request/connect.py
+END
+methodrequest.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sqlmap/!svn/ver/2018/trunk/sqlmap/lib/request/methodrequest.py
+END
+comparison.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sqlmap/!svn/ver/3359/trunk/sqlmap/lib/request/comparison.py
+END
+direct.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/3132/trunk/sqlmap/lib/request/direct.py
+END
+rangehandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/2318/trunk/sqlmap/lib/request/rangehandler.py
+END
+certhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/request/certhandler.py
+END
+inject.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/3604/trunk/sqlmap/lib/request/inject.py
+END
+templates.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/3147/trunk/sqlmap/lib/request/templates.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/request/__init__.py
+END
+redirecthandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sqlmap/!svn/ver/3428/trunk/sqlmap/lib/request/redirecthandler.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3559/trunk/sqlmap/lib/request/basic.py
+END
+basicauthhandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sqlmap/!svn/ver/3388/trunk/sqlmap/lib/request/basicauthhandler.py
+END
+proxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/request/proxy.py
+END

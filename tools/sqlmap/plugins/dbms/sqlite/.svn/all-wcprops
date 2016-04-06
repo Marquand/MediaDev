@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3244/trunk/sqlmap/plugins/dbms/sqlite
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/2594/trunk/sqlmap/plugins/dbms/sqlite/connector.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sqlmap/!svn/ver/2629/trunk/sqlmap/plugins/dbms/sqlite/__init__.py
+END
+takeover.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/dbms/sqlite/takeover.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/dbms/sqlite/filesystem.py
+END
+enumeration.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sqlmap/!svn/ver/2963/trunk/sqlmap/plugins/dbms/sqlite/enumeration.py
+END
+syntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/sqlmap/!svn/ver/3244/trunk/sqlmap/plugins/dbms/sqlite/syntax.py
+END
+fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sqlmap/!svn/ver/3127/trunk/sqlmap/plugins/dbms/sqlite/fingerprint.py
+END

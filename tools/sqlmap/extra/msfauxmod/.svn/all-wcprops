@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/sqlmap/!svn/ver/1753/trunk/sqlmap/extra/msfauxmod
+END
+sqlmap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sqlmap/!svn/ver/1753/trunk/sqlmap/extra/msfauxmod/sqlmap.rb
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sqlmap/!svn/ver/1285/trunk/sqlmap/extra/msfauxmod/README.txt
+END

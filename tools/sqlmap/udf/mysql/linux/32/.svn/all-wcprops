@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/3194/trunk/sqlmap/udf/mysql/linux/32
+END
+lib_mysqludf_sys.so
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sqlmap/!svn/ver/3194/trunk/sqlmap/udf/mysql/linux/32/lib_mysqludf_sys.so
+END

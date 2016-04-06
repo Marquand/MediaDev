@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper
+END
+between.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/between.py
+END
+charencode.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/charencode.py
+END
+randomcase.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/randomcase.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/2009/trunk/sqlmap/tamper/__init__.py
+END
+space2comment.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/space2comment.py
+END
+ifnull2ifisnull.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/ifnull2ifisnull.py
+END
+space2plus.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/space2plus.py
+END
+charunicodeencode.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/charunicodeencode.py
+END
+randomcomments.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/randomcomments.py
+END
+space2randomblank.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3555/trunk/sqlmap/tamper/space2randomblank.py
+END

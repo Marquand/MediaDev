@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3244/trunk/sqlmap/plugins/dbms/access
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/2298/trunk/sqlmap/plugins/dbms/access/connector.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sqlmap/!svn/ver/2629/trunk/sqlmap/plugins/dbms/access/__init__.py
+END
+takeover.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/dbms/access/takeover.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/dbms/access/filesystem.py
+END
+enumeration.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sqlmap/!svn/ver/3098/trunk/sqlmap/plugins/dbms/access/enumeration.py
+END
+syntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/sqlmap/!svn/ver/3244/trunk/sqlmap/plugins/dbms/access/syntax.py
+END
+fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sqlmap/!svn/ver/3127/trunk/sqlmap/plugins/dbms/access/fingerprint.py
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/3596/trunk/sqlmap/plugins/dbms/postgresql
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sqlmap/!svn/ver/2298/trunk/sqlmap/plugins/dbms/postgresql/connector.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sqlmap/!svn/ver/2629/trunk/sqlmap/plugins/dbms/postgresql/__init__.py
+END
+takeover.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sqlmap/!svn/ver/3596/trunk/sqlmap/plugins/dbms/postgresql/takeover.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/dbms/postgresql/filesystem.py
+END
+enumeration.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sqlmap/!svn/ver/2963/trunk/sqlmap/plugins/dbms/postgresql/enumeration.py
+END
+syntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sqlmap/!svn/ver/3244/trunk/sqlmap/plugins/dbms/postgresql/syntax.py
+END
+fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sqlmap/!svn/ver/3127/trunk/sqlmap/plugins/dbms/postgresql/fingerprint.py
+END

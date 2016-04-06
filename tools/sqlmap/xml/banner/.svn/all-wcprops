@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/sqlmap/!svn/ver/3146/trunk/sqlmap/xml/banner
+END
+x-aspnet-version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sqlmap/!svn/ver/2229/trunk/sqlmap/xml/banner/x-aspnet-version.xml
+END
+x-powered-by.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sqlmap/!svn/ver/715/trunk/sqlmap/xml/banner/x-powered-by.xml
+END
+postgresql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/715/trunk/sqlmap/xml/banner/postgresql.xml
+END
+servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/941/trunk/sqlmap/xml/banner/servlet.xml
+END
+mysql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/715/trunk/sqlmap/xml/banner/mysql.xml
+END
+oracle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/715/trunk/sqlmap/xml/banner/oracle.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/2864/trunk/sqlmap/xml/banner/server.xml
+END
+cookie.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/2176/trunk/sqlmap/xml/banner/cookie.xml
+END
+generic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/2176/trunk/sqlmap/xml/banner/generic.xml
+END
+sharepoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/715/trunk/sqlmap/xml/banner/sharepoint.xml
+END
+mssql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3146/trunk/sqlmap/xml/banner/mssql.xml
+END

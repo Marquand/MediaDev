@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3616/trunk/sqlmap/lib/techniques/brute
+END
+use.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3616/trunk/sqlmap/lib/techniques/brute/use.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/2318/trunk/sqlmap/lib/techniques/brute/__init__.py
+END

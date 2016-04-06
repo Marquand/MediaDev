@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/sqlmap/!svn/ver/2444/trunk/sqlmap/shell
+END
+stager.jsp_
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/2444/trunk/sqlmap/shell/stager.jsp_
+END
+backdoor.asp_
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/2342/trunk/sqlmap/shell/backdoor.asp_
+END
+stager.asp_
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/2342/trunk/sqlmap/shell/stager.asp_
+END
+runcmd.exe_
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/1282/trunk/sqlmap/shell/runcmd.exe_
+END
+backdoor.php_
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/1593/trunk/sqlmap/shell/backdoor.php_
+END
+stager.php_
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/2335/trunk/sqlmap/shell/stager.php_
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sqlmap/!svn/ver/2074/trunk/sqlmap/shell/README.txt
+END
+backdoor.aspx_
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2336/trunk/sqlmap/shell/backdoor.aspx_
+END
+backdoor.jsp_
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/2335/trunk/sqlmap/shell/backdoor.jsp_
+END
+stager.aspx_
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/2439/trunk/sqlmap/shell/stager.aspx_
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sqlmap/!svn/ver/3627/trunk/sqlmap/lib/core
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/3604/trunk/sqlmap/lib/core/common.py
+END
+profiling.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/3132/trunk/sqlmap/lib/core/profiling.py
+END
+threads.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3417/trunk/sqlmap/lib/core/threads.py
+END
+agent.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/3617/trunk/sqlmap/lib/core/agent.py
+END
+exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/3126/trunk/sqlmap/lib/core/exception.py
+END
+revision.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3395/trunk/sqlmap/lib/core/revision.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/core/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3627/trunk/sqlmap/lib/core/settings.py
+END
+progress.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/core/progress.py
+END
+dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sqlmap/!svn/ver/3548/trunk/sqlmap/lib/core/dump.py
+END
+dicts.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/3404/trunk/sqlmap/lib/core/dicts.py
+END
+shell.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/3137/trunk/sqlmap/lib/core/shell.py
+END
+option.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/3612/trunk/sqlmap/lib/core/option.py
+END
+readlineng.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/3004/trunk/sqlmap/lib/core/readlineng.py
+END
+replication.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/3250/trunk/sqlmap/lib/core/replication.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sqlmap/!svn/ver/3174/trunk/sqlmap/lib/core/data.py
+END
+datatype.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2983/trunk/sqlmap/lib/core/datatype.py
+END
+optiondict.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/3569/trunk/sqlmap/lib/core/optiondict.py
+END
+subprocessng.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/2198/trunk/sqlmap/lib/core/subprocessng.py
+END
+testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3612/trunk/sqlmap/lib/core/testing.py
+END
+convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3608/trunk/sqlmap/lib/core/convert.py
+END
+update.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/3434/trunk/sqlmap/lib/core/update.py
+END
+session.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3567/trunk/sqlmap/lib/core/session.py
+END
+unescaper.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/3245/trunk/sqlmap/lib/core/unescaper.py
+END
+target.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/3437/trunk/sqlmap/lib/core/target.py
+END
+xmldump.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3132/trunk/sqlmap/lib/core/xmldump.py
+END
+enums.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/3571/trunk/sqlmap/lib/core/enums.py
+END

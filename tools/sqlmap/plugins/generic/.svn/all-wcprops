@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/sqlmap/!svn/ver/3609/trunk/sqlmap/plugins/generic
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sqlmap/!svn/ver/2246/trunk/sqlmap/plugins/generic/connector.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/3607/trunk/sqlmap/plugins/generic/misc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/generic/__init__.py
+END
+takeover.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3391/trunk/sqlmap/plugins/generic/takeover.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/sqlmap/!svn/ver/3609/trunk/sqlmap/plugins/generic/filesystem.py
+END
+enumeration.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sqlmap/!svn/ver/3603/trunk/sqlmap/plugins/generic/enumeration.py
+END
+syntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/generic/syntax.py
+END
+fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sqlmap/!svn/ver/3127/trunk/sqlmap/plugins/generic/fingerprint.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sqlmap/!svn/ver/3193/trunk/sqlmap/extra/udfhack/linux/32/lib_mysqludf_sys
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sqlmap/!svn/ver/1796/trunk/sqlmap/extra/udfhack/linux/32/lib_mysqludf_sys/install.sh
+END
+lib_mysqludf_sys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sqlmap/!svn/ver/1495/trunk/sqlmap/extra/udfhack/linux/32/lib_mysqludf_sys/lib_mysqludf_sys.sql
+END
+lib_mysqludf_sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sqlmap/!svn/ver/2906/trunk/sqlmap/extra/udfhack/linux/32/lib_mysqludf_sys/lib_mysqludf_sys.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sqlmap/!svn/ver/3193/trunk/sqlmap/extra/udfhack/linux/32/lib_mysqludf_sys/Makefile
+END

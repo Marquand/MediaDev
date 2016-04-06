@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3598/trunk/sqlmap/lib/techniques/error
+END
+use.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3598/trunk/sqlmap/lib/techniques/error/use.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/techniques/error/__init__.py
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/sqlmap/!svn/ver/3528/trunk/sqlmap/txt
+END
+common-columns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/2809/trunk/sqlmap/txt/common-columns.txt
+END
+keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sqlmap/!svn/ver/2320/trunk/sqlmap/txt/keywords.txt
+END
+wordlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sqlmap/!svn/ver/2981/trunk/sqlmap/txt/wordlist.txt
+END
+common-outputs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/2284/trunk/sqlmap/txt/common-outputs.txt
+END
+oracle-default-passwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/2424/trunk/sqlmap/txt/oracle-default-passwords.txt
+END
+user-agents.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/2889/trunk/sqlmap/txt/user-agents.txt
+END
+common-tables.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/3528/trunk/sqlmap/txt/common-tables.txt
+END

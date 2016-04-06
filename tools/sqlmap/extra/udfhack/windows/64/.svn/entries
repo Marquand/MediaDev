@@ -1,0 +1,34 @@
+10
+
+dir
+3630
+https://svn.sqlmap.org/sqlmap/trunk/sqlmap/extra/udfhack/windows/64
+https://svn.sqlmap.org/sqlmap
+
+
+
+2011-01-05T14:41:38.266740Z
+2906
+stamparm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7eb2e9d7-d917-0410-b3c8-b11144ad09fb
+
+lib_postgresqludf_sys
+dir
+
+lib_mysqludf_sys
+dir
+

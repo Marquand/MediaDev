@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3189/trunk/sqlmap/udf/postgresql/linux/32/8.2
+END
+lib_postgresqludf_sys.so
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sqlmap/!svn/ver/3189/trunk/sqlmap/udf/postgresql/linux/32/8.2/lib_postgresqludf_sys.so
+END

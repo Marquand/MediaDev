@@ -1,0 +1,8 @@
+XDEFINES= -DLIBSSH 
+XLIBS= -lssh
+XLIBPATHS=-L/usr/lib -L/usr/local/lib -L/lib -L/usr/local/lib
+XIPATHS= -I/usr/local/include
+PREFIX=/usr/local
+XHYDRA_SUPPORT=
+STRIP=strip
+

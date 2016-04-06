@@ -1,0 +1,13 @@
+K 9
+Copyright
+V 64
+(c) 2006-2010 sqlmap developers (http://sqlmap.sourceforge.net/)
+K 7
+License
+V 50
+GPLv2 (see 'doc/COPYING' for terms and conditions)
+K 12
+svn:keywords
+V 2
+Id
+END

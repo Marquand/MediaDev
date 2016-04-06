@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3601/trunk/sqlmap/lib/techniques/blind
+END
+inference.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sqlmap/!svn/ver/3601/trunk/sqlmap/lib/techniques/blind/inference.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/techniques/blind/__init__.py
+END

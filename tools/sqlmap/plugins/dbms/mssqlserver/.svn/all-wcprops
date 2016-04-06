@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/3528/trunk/sqlmap/plugins/dbms/mssqlserver
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sqlmap/!svn/ver/2298/trunk/sqlmap/plugins/dbms/mssqlserver/connector.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sqlmap/!svn/ver/2629/trunk/sqlmap/plugins/dbms/mssqlserver/__init__.py
+END
+takeover.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sqlmap/!svn/ver/2650/trunk/sqlmap/plugins/dbms/mssqlserver/takeover.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sqlmap/!svn/ver/2972/trunk/sqlmap/plugins/dbms/mssqlserver/filesystem.py
+END
+enumeration.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sqlmap/!svn/ver/3528/trunk/sqlmap/plugins/dbms/mssqlserver/enumeration.py
+END
+syntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sqlmap/!svn/ver/3244/trunk/sqlmap/plugins/dbms/mssqlserver/syntax.py
+END
+fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sqlmap/!svn/ver/3127/trunk/sqlmap/plugins/dbms/mssqlserver/fingerprint.py
+END

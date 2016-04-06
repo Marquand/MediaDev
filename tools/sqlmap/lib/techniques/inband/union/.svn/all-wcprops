@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3598/trunk/sqlmap/lib/techniques/inband/union
+END
+use.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sqlmap/!svn/ver/3598/trunk/sqlmap/lib/techniques/inband/union/use.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/techniques/inband/union/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sqlmap/!svn/ver/3534/trunk/sqlmap/lib/techniques/inband/union/test.py
+END

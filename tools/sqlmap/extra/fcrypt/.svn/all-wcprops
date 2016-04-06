@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/sqlmap/!svn/ver/3496/trunk/sqlmap/extra/fcrypt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/3496/trunk/sqlmap/extra/fcrypt/__init__.py
+END
+fcrypt.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/3496/trunk/sqlmap/extra/fcrypt/fcrypt.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/sqlmap/!svn/ver/3552/trunk/sqlmap/extra/keepalive
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/2004/trunk/sqlmap/extra/keepalive/__init__.py
+END
+keepalive.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sqlmap/!svn/ver/3552/trunk/sqlmap/extra/keepalive/keepalive.py
+END

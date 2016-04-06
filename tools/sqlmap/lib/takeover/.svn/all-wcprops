@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/sqlmap/!svn/ver/3353/trunk/sqlmap/lib/takeover
+END
+registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/2246/trunk/sqlmap/lib/takeover/registry.py
+END
+abstraction.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3127/trunk/sqlmap/lib/takeover/abstraction.py
+END
+upx.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/2246/trunk/sqlmap/lib/takeover/upx.py
+END
+web.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3181/trunk/sqlmap/lib/takeover/web.py
+END
+udf.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3353/trunk/sqlmap/lib/takeover/udf.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/takeover/__init__.py
+END
+metasploit.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sqlmap/!svn/ver/3132/trunk/sqlmap/lib/takeover/metasploit.py
+END
+xp_cmdshell.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3265/trunk/sqlmap/lib/takeover/xp_cmdshell.py
+END
+icmpsh.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/sqlmap/!svn/ver/2258/trunk/sqlmap/lib/takeover/icmpsh.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/1282/trunk/sqlmap/extra/runcmd/windows/runcmd
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sqlmap/!svn/ver/1282/trunk/sqlmap/extra/runcmd/windows/runcmd/stdafx.h
+END
+runcmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sqlmap/!svn/ver/1282/trunk/sqlmap/extra/runcmd/windows/runcmd/runcmd.cpp
+END
+runcmd.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sqlmap/!svn/ver/1282/trunk/sqlmap/extra/runcmd/windows/runcmd/runcmd.vcproj
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sqlmap/!svn/ver/1282/trunk/sqlmap/extra/runcmd/windows/runcmd/stdafx.cpp
+END

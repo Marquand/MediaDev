@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sqlmap/!svn/ver/2905/trunk/sqlmap/extra/udfhack/linux/64/lib_postgresqludf_sys
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sqlmap/!svn/ver/1495/trunk/sqlmap/extra/udfhack/linux/64/lib_postgresqludf_sys/install.sh
+END
+lib_postgresqludf_sys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sqlmap/!svn/ver/1495/trunk/sqlmap/extra/udfhack/linux/64/lib_postgresqludf_sys/lib_postgresqludf_sys.sql
+END
+lib_postgresqludf_sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sqlmap/!svn/ver/2905/trunk/sqlmap/extra/udfhack/linux/64/lib_postgresqludf_sys/lib_postgresqludf_sys.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sqlmap/!svn/ver/1495/trunk/sqlmap/extra/udfhack/linux/64/lib_postgresqludf_sys/Makefile
+END

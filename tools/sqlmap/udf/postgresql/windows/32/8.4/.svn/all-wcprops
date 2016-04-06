@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/sqlmap/!svn/ver/1495/trunk/sqlmap/udf/postgresql/windows/32/8.4
+END
+lib_postgresqludf_sys.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sqlmap/!svn/ver/1495/trunk/sqlmap/udf/postgresql/windows/32/8.4/lib_postgresqludf_sys.dll
+END

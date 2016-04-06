@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/sqlmap/!svn/ver/3624/trunk/sqlmap/xml
+END
+phpids_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2199/trunk/sqlmap/xml/phpids_rules.xml
+END
+livetests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/3613/trunk/sqlmap/xml/livetests.xml
+END
+sqlmap.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/sqlmap/!svn/ver/1711/trunk/sqlmap/xml/sqlmap.xsd
+END
+errors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/sqlmap/!svn/ver/3080/trunk/sqlmap/xml/errors.xml
+END
+payloads.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sqlmap/!svn/ver/3624/trunk/sqlmap/xml/payloads.xml
+END
+queries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/sqlmap/!svn/ver/3624/trunk/sqlmap/xml/queries.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/sqlmap/!svn/ver/3275/trunk/sqlmap/extra/multipart
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sqlmap/!svn/ver/3275/trunk/sqlmap/extra/multipart/__init__.py
+END
+multipartpost.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/3275/trunk/sqlmap/extra/multipart/multipartpost.py
+END

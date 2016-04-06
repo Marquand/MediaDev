@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/sqlmap/!svn/ver/3611/trunk/sqlmap/lib/parse
+END
+cmdline.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/3611/trunk/sqlmap/lib/parse/cmdline.py
+END
+headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/parse/headers.py
+END
+payloads.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/2480/trunk/sqlmap/lib/parse/payloads.py
+END
+handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sqlmap/!svn/ver/2974/trunk/sqlmap/lib/parse/handler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/sqlmap/!svn/ver/2009/trunk/sqlmap/lib/parse/__init__.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/sqlmap/!svn/ver/3117/trunk/sqlmap/lib/parse/html.py
+END
+banner.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sqlmap/!svn/ver/3127/trunk/sqlmap/lib/parse/banner.py
+END
+configfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sqlmap/!svn/ver/3182/trunk/sqlmap/lib/parse/configfile.py
+END

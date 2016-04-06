@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sqlmap/!svn/ver/3351/trunk/sqlmap/plugins/dbms/maxdb
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sqlmap/!svn/ver/2177/trunk/sqlmap/plugins/dbms/maxdb/connector.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sqlmap/!svn/ver/2629/trunk/sqlmap/plugins/dbms/maxdb/__init__.py
+END
+takeover.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/dbms/maxdb/takeover.py
+END
+filesystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sqlmap/!svn/ver/2009/trunk/sqlmap/plugins/dbms/maxdb/filesystem.py
+END
+enumeration.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sqlmap/!svn/ver/3351/trunk/sqlmap/plugins/dbms/maxdb/enumeration.py
+END
+syntax.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sqlmap/!svn/ver/2242/trunk/sqlmap/plugins/dbms/maxdb/syntax.py
+END
+fingerprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sqlmap/!svn/ver/3350/trunk/sqlmap/plugins/dbms/maxdb/fingerprint.py
+END
