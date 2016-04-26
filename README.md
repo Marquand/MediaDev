@@ -11,7 +11,7 @@ MediaDev est une Boîtes à Outils pour les developpeurs, réunissant plusieurs 
 ## Pré-Requis
 
 Vous aurez besoin d'avoir installé ces différents modules sur votre machine : 
-  - CurL
+  - CurL (for Mac OSX & Distrib. Linux)
   - Git
   - Python2.7
 
