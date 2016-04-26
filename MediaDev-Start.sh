@@ -32,7 +32,7 @@ now="$(date +%Y-%m-%d)"
 #printf "%s\n" "$now"
 NOW=$now
 #VERSION="1.4.3 - $(echo $now)"
-VERSION="1.5"
+VERSION="1.5.2"
 
 echo ""
 echo "----------------------------------------------------------------------------"
@@ -51,11 +51,11 @@ if [ "$MAJ" = "y" ]
 then
     mkdir patch
     mkdir tools
-	curl -o patch/patch.sh "http://vps241658.ovh.net/script/patch/patch.sh"
-	curl.exe -o patch/patch.sh "http://vps241658.ovh.net/script/patch/patch.sh"
-	chmod 777 patch/patch.sh
-	echo ""
-    bash patch/patch.sh
+    curl -o patch/patch.sh "http://vps241658.ovh.net/script/patch/patch.sh"
+    powershell "& { (New-Object Net.WebClient).DownloadFile('http://vps241658.ovh.net/script/patch/patch.sh', 'patch/patch.sh') }"
+    chmod 777 patch/patch.sh
+    echo ""
+    bash -e patch/patch.sh
 fi
 
 echo -e -n "[\033[32mLancer un Outil du pack MediaDev\033[0m] [\033[31mYes(y)/No(n)/Restart(r)\033[0m] :"
@@ -64,38 +64,55 @@ START=${START:-y}
 
 if [ "$START" = "y" ]
 then
-	echo -e -n "- \033[31mGitLab-Save\033[0m [\033[32m1\033[0m]   "
-	echo ""
-	echo -e -n "- \033[31mSQLmap\033[0m (détection de faille sql) [\033[32m2\033[0m]   "
-	echo ""
-	echo -e -n "- \033[31mCupp\033[0m (Génération de Password) [\033[32m3\033[0m]   "
-	echo ""
-	echo -e -n "- \033[31mBruteForce\033[0m [\033[32m4\033[0m]   "
-	echo ""
-	echo -e -n "Selection de l'[\033[31mOutils\033[0m] MediaDev :"
-	echo ""
+    echo -e -n "- \033[31mGitLab-Save\033[0m [\033[32mDefault\033[0m]   "
+    echo ""
+    echo -e -n "- \033[31mSQLmap\033[0m (détection de faille sql) [\033[32mSQL\033[0m]   "
+    echo ""
+    echo -e -n "- \033[31mBruteForce\033[0m [\033[32mBF\033[0m]   "
+    echo ""
+    echo -e -n "- \033[31mCupp\033[0m (Génération de Password) [\033[32mC\033[0m]   "
+    echo ""
+    echo -e -n "- \033[31mDork Finder\033[0m [\033[32mD\033[0m]   "
+    echo ""
+    echo -e -n "Selection de l'[\033[31mOutils\033[0m] MediaDev :"
+    echo ""
     read TOOLS
-
-    if [ "$TOOLS" = "1" ]
+    TOOLS=${TOOLS:-Default}
+    
+    if [ "$TOOLS" = "Default" ]
     then
         bash tools/GitLab-Save.sh
     fi
 
-    if [ "$TOOLS" = "2" ]
+    if [ "$TOOLS" = "SQL" ]
     then
         chmod 777 tools/
         bash tools/sqlmap/start.sh
     fi
 
-    if [ "$TOOLS" = "3" ]
+    if [ "$TOOLS" = "C" ]
     then
         chmod 777 tools/
         cd tools/cupp/
         echo -e -n "Donner des [\033[31mMots-Clés\033[0m] pour générer des password :"
         python cupp.py -i
     fi
+
+    if [ "$TOOLS" = "BF" ]
+    then
+        chmod 777 tools/
+        cd tools/patator/
+        python patator.py
+    fi
+
+    if [ "$TOOLS" = "D" ]
+    then
+        chmod 777 tools/
+        cd tools/dork
+        python Dork\ Finder.py
+    fi
 fi
 if [ "$START" = "r" ]
 then
-	bash MediaDev-Start.sh 
+    bash MediaDev-Start.sh 
 fi

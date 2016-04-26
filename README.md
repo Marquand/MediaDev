@@ -1,6 +1,6 @@
 # MediaDev
 Tools Box for Developper
-# ![Mediashare](logo.png)
+# ![Mediashare](http://vps241658.ovh.net/script/img/logo.png)
 
 [![Bug Core Status](https://travis-ci.org/sindresorhus/pageres.svg?branch=master)](https://travis-ci.org/sindresorhus/pageres) [![Build Status](https://coveralls.io/repos/sindresorhus/pageres/badge.svg?branch=master)](https://coveralls.io/r/sindresorhus/pageres?branch=master)
 
@@ -24,7 +24,7 @@ $ Voulez-vous faire une mise à jour ou une installation ? [Yes(y)/No(n)] : y
 $ Choice your OS Mac/Linus -> m or Windows -> w
 ```
 
-![MediaDev](MediaDev.gif)
+![MediaDev](http://vps241658.ovh.net/script/img/MediaDev.gif)
 *Pensez à faire régulièrement des mise à jour de l'application [MediaDev-Start](http://Script.Mediashare.fr),
 afin d'avoir les derniers patch debug et les nouveaux outils*
 
