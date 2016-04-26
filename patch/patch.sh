@@ -17,7 +17,8 @@ then
 	echo ""
 
 	# chmod 777 tools
-	# rmdir -s tools 
+	# rmdir -s tools
+	rmdir patch/tools 
 	mkdir patch/tools
 	mv tools patch/
 	mkdir tools
