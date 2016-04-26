@@ -18,9 +18,7 @@ then
 
 	# chmod 777 tools
 	# rmdir -s tools
-	rmdir patch/tools 
-	mkdir patch/tools
-	mv tools patch/
+	rm -rf tools 
 	mkdir tools
 	chmod 777 tools
 	# mv tools/GitLab-Save.sh patch/GitLab-Save-OLD.sh
