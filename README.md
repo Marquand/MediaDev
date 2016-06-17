@@ -49,10 +49,12 @@ afin d'avoir les derniers patch debug et les nouveaux outils*
 ```shell
 ./MediaDev-Start.sh
 [Lancer un Outil du pack MediaDev] [Yes(y)/No(n)/Restart(r)] :y
-- GitLab-Save [1]   
-- SQLmap (détection de faille sql) [2]   
-- Cupp (Génération de Password) [3]   
-- BruteForce [4]   
+- GitLab-Save [Default]
+- SQLmap (détection de faille sql) [SQL]
+- BruteForce [BF]
+- Cupp (Génération de Password) [C]
+- Dork Finder [D]
+- DDoS [DDOS]
 Selection de l'[Outils] MediaDev :
 ```
 Vous Devrez choisir l'outil voulu.
