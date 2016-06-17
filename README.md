@@ -5,6 +5,19 @@ Tools Box for Developper
 [![Bug Core Status](https://travis-ci.org/sindresorhus/pageres.svg?branch=master)](https://travis-ci.org/sindresorhus/pageres) [![Build Status](https://coveralls.io/repos/sindresorhus/pageres/badge.svg?branch=master)](https://coveralls.io/r/sindresorhus/pageres?branch=master)
 
 MediaDev est une Boîtes à Outils pour les developpeurs, réunissant plusieurs scripts utilent pour toute sorte d'objectif.
+## Options
+
+Plusieurs possibilité vous sont offertes :
+  - [GitLab-Save] Système de Sauvegarde avec git :
+    - [Init] Initialisation/Installation d'un répertoire git.  
+    - [Clone] Récupère la dernière copie du projet.
+    - [Push] Sauvegarde le projet en cours.
+    - [Steal] Sauvergarde Sauvage.
+  - [SQLmap] Détection de faille injection SQL sur une URL.
+  - [BruteForce] Multi Force Test login/password.
+  - [Cupp] Générateur de liste de password.
+  - [Dork Finder] Recherche d'URL avec faille Injection SQL.
+  - [DDOS] Attaque de serveur par DDOS.
 
 *Créer dans le cadre du projet [Mediashare](http://Script.Mediashare.fr)*
 
@@ -12,7 +25,9 @@ MediaDev est une Boîtes à Outils pour les developpeurs, réunissant plusieurs 
 
 Vous aurez besoin d'avoir installé ces différents modules sur votre machine : 
   - CurL (for Mac OSX & Distrib. Linux)
-  - Git
+  - Git :
+    + Ligne de commande installer sur la machine.
+    + Un repertoire sur les serveurs git disponnible.
   - Python2.7
 
 
