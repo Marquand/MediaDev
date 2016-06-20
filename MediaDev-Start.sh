@@ -32,28 +32,44 @@ now="$(date +%Y-%m-%d)"
 #printf "%s\n" "$now"
 NOW=$now
 #VERSION="1.4.3 - $(echo $now)"
-VERSION="1.5.2"
+VERSION="1.6"
 
 echo ""
 echo "----------------------------------------------------------------------------"
-echo -e "------ Service Mise à Jour MediaDev-Start de [\033[32mMediashare.fr\033[0m]"
+echo -e "------ Service Launcher MediaDev-Start de [\033[32mMediashare.fr\033[0m]"
 echo -e "------ [\033[36mVersion : $VERSION\033[0m]"
 echo "----------------------------------------------------------------------------"
 echo ""
 echo ""
 echo ""
 
-echo -e -n "Voulez-vous faire une mise à jour ou une installation ? [\033[32mYes(y)/No(n)\033[0m] :"
+echo -e -n "Mise à Jour/Installation des Outils MediaDev ? [\033[32mYes(y)/No(n)\033[0m] :"
+echo ""
 read MAJ
 MAJ=${MAJ:-n}
 
 if [ "$MAJ" = "y" ]
 then
+    echo -e -n "[\033[32mVérification\033[0m] des dossiers:"
+    echo ""
     mkdir patch
     mkdir tools
+    echo ""
+    echo "----------------------------------------------------------------------------"
+    echo -e "------ Vérification : [\033[36mOK\033[0m]"
+    echo ""
+    echo ""
+    echo -e -n "[\033[32mTéléchargmement\033[0m] fichier patch.sh:"
+    echo ""
     curl -o patch/patch.sh "http://vps241658.ovh.net/script/patch/patch.sh"
     powershell "& { (New-Object Net.WebClient).DownloadFile('http://vps241658.ovh.net/script/patch/patch.sh', 'patch/patch.sh') }"
+    echo ""
+    echo "----------------------------------------------------------------------------"
+    echo ""
+    echo -e "------ Téléchargmenet : [\033[36mOK\033[0m]"
+    echo ""
     chmod 777 patch/patch.sh
+    echo -e -n "[\033[32mLancement\033[0m] du Patch [\033[36m$VERSION\033[0m]"
     echo ""
     bash -e patch/patch.sh
 fi
@@ -74,6 +90,8 @@ then
     echo ""
     echo -e -n "- \033[31mDork Finder\033[0m [\033[32mD\033[0m]   "
     echo ""
+    echo -e -n "- \033[31mDDoS\033[0m [\033[32mDDOS\033[0m]   "
+    echo ""
     echo -e -n "Selection de l'[\033[31mOutils\033[0m] MediaDev :"
     echo ""
     read TOOLS
@@ -93,13 +111,17 @@ then
     if [ "$TOOLS" = "C" ]
     then
         chmod 777 tools/
-        cd tools/cupp/
-        echo -e -n "Donner des [\033[31mMots-Clés\033[0m] pour générer des password :"
-        python cupp.py -i
+        bash tools/cupp/start.sh
     fi
 
     if [ "$TOOLS" = "BF" ]
     then
+        echo -e -n "Lancement de BruteForce :"
+        echo ""
+        echo -e -n "Manuellement -> cd /tools/patator "
+        echo ""
+        echo -e -n "[\033[31mPython patator.py\033[0m]"
+
         chmod 777 tools/
         cd tools/patator/
         python patator.py
@@ -107,12 +129,44 @@ then
 
     if [ "$TOOLS" = "D" ]
     then
+        echo -e -n "Lancement de DorkFinder :"
+        echo ""
+        echo -e -n "Manuellement -> cd /tools/dork "
+        echo ""
+        echo -e -n "[\033[31mPython Dork\ Finder.py\033[0m]"
+
         chmod 777 tools/
         cd tools/dork
         python Dork\ Finder.py
+        read
+    fi
+    if [ "$TOOLS" = "DDOS" ]
+    then
+        echo -e -n "Lancement de DDOS :"
+        echo ""
+        echo -e -n "Manuellement -> cd /tools/hammer "
+        echo ""
+        echo -e -n "[\033[31mPython hammer.py\033[0m]"
+
+        chmod 777 tools/
+        cd tools/hammer/
+        echo -e -n "Le site à Attaquer :"
+        read SITE
+        echo -e -n "Le nombre de requête : [\033[32mDefault : 66\033[0m]"
+        read DDOSR
+        DDOSR=${DDOSR:-66}
+        echo -e -n "Combien de temps : [\033[32mDefault : 60secondes\033[0m]"
+        read DDOST
+        DDOST=${DDOST:-66}
+        python hammer.py -c $DDOSR -t $DDOST $SITE
+        read
+        ./hammer.py -c $DDOSR -t $DDOST $SITE
+        read
     fi
 fi
 if [ "$START" = "r" ]
 then
+    echo -e -n "Restart MediaDev :"
+    echo ""
     bash MediaDev-Start.sh 
 fi
