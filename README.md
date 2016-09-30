@@ -1,6 +1,5 @@
 # MediaDev
 Tools Box for Developper
-# ![Mediashare](http://vps241658.ovh.net/script/img/logo.png)
 
 [![Bug Core Status](https://travis-ci.org/sindresorhus/pageres.svg?branch=master)](https://travis-ci.org/sindresorhus/pageres) [![Build Status](https://coveralls.io/repos/sindresorhus/pageres/badge.svg?branch=master)](https://coveralls.io/r/sindresorhus/pageres?branch=master)
 
